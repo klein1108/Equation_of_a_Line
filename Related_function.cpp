@@ -40,7 +40,6 @@ char grafico;        //nao aceita na forma de vetor (???)
                 printf("nao pode haver dois pontos de x iguais\n\n");
 
             }
-
             if(y_1>y_2){
                 y=y_1;
                 x=x_1;
