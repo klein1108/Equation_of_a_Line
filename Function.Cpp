@@ -1,5 +1,5 @@
 /******************************************************************************************************
-*   @file      Related Function                                                                       *
+*   @file      Equation of a Line                                                                     *
 *   @author    Lucas Klein                                                                            *
 *   @version   v1                                                                                     *
 *   @date      x-November-2020                                                                        *
